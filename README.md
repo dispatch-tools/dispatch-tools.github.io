@@ -1,20 +1,7 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privacy Policy — Dispatch Tools</title>
-<meta name="description" content="Privacy Policy for Download Dispatcher and Dispatch Tools.">
-<link rel="icon" type="image/png" href="assets/dd-icon32.png">
-<link rel="apple-touch-icon" href="assets/dd-icon128.png">
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<header><div class="nav"><a class="brand" href="index.html"><span class="logo"><img src="assets/dd-icon32.png" alt="Download Dispatcher icon"></span><span>Dispatch Tools</span></a><nav class="navlinks"><a href="download-dispatcher.html">Download Dispatcher</a><a href="file-dispatcher.html">File Dispatcher</a><a href="privacy.html">Privacy</a><a href="support.html">Support</a><a href="release-notes.html">Release Notes</a></nav></div></header>
+# Dispatch Tools
 
-<section class="hero"><p class="kicker">Privacy</p><h1>Privacy Policy</h1><p>This policy applies to Download Dispatcher and related Dispatch Tools pages and products unless a product-specific policy says otherwise.</p></section>
-<main><section class="card"><h2>Download Dispatcher</h2><p>Download Dispatcher is a browser extension that helps users organize browser downloads into folders using workspaces, routes, and local routing rules.</p><h3>Data processed locally</h3><p>Download Dispatcher may process and store extension settings, workspace names, route names, routing rules, filename patterns, file type rules, date rules, file size rules, source host or URL details used for routing and Recent Dispatches, suggested save paths, final saved paths, and diagnostic details shown inside the extension.</p><h3>How data is used</h3><p>This data is used only to provide Download Dispatcher features, including download routing, destination previews, Recent Dispatches, profile export/import, toolbar badge state, and troubleshooting information.</p><h3>Data storage</h3><p>Download Dispatcher stores its data locally in browser extension storage. Users may choose to export profiles or copy diagnostics for backup or support.</p><h3>Data sharing</h3><p>Download Dispatcher does not sell user data. Download Dispatcher does not transmit user files, download history, browser activity, settings, profiles, or diagnostics to the developer or to a remote server.</p><h3>Remote services</h3><p>Download Dispatcher does not require a remote server to operate.</p><h3>Permissions</h3><p>Download Dispatcher uses browser extension permissions only to support download-routing functionality, local settings, extension pages, timing behavior, and extension menu actions.</p><h3>User control</h3><p>Users can disable routing, change or delete workspaces and rules, clear recent dispatch information where supported, export profiles, or remove the extension through the browser.</p><h3>Contact</h3><p>For questions or support, contact <a href="mailto:DownloadDispatcher@gmail.com">DownloadDispatcher@gmail.com</a>.</p></section></main>
+Official site for Dispatch Tools, including Download Dispatcher.
 
-<footer><p>© Dispatch Tools. Download Dispatcher support: <a href="mailto:DownloadDispatcher@gmail.com">DownloadDispatcher@gmail.com</a>.</p></footer>
-</body>
-</html>
+Live site: https://dispatch-tools.github.io/
+
+Uses the Download Dispatcher icon assets from the v2.0.15 release package.
